@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Android Apps\AlyMathGame\AlyMathGame\bin\Debug\AlyMathGame.exe.config
+C:\Users\Michael\Documents\Android Apps\AlyMathGame\AlyMathGame\bin\Debug\AlyMathGame.exe
+C:\Users\Michael\Documents\Android Apps\AlyMathGame\AlyMathGame\bin\Debug\AlyMathGame.pdb
+C:\Users\Michael\Documents\Android Apps\AlyMathGame\AlyMathGame\obj\Debug\AlyMathGame.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Android Apps\AlyMathGame\AlyMathGame\obj\Debug\AlyMathGame.frmMain.resources
+C:\Users\Michael\Documents\Android Apps\AlyMathGame\AlyMathGame\obj\Debug\AlyMathGame.Properties.Resources.resources
+C:\Users\Michael\Documents\Android Apps\AlyMathGame\AlyMathGame\obj\Debug\AlyMathGame.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Android Apps\AlyMathGame\AlyMathGame\obj\Debug\AlyMathGame.exe
+C:\Users\Michael\Documents\Android Apps\AlyMathGame\AlyMathGame\obj\Debug\AlyMathGame.pdb
+C:\Users\Michael\Documents\Android Apps\AlyMathGame\AlyMathGame\obj\Debug\AlyMathGame.FrmCorrect.resources
+C:\Users\Michael\Documents\Android Apps\AlyMathGame\AlyMathGame\obj\Debug\AlyMathGame.frmIncorrect.resources
